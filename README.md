@@ -75,4 +75,14 @@
 
 ## 👀 Profile Visits
 
-[![](https://visitcount.itsvg.in/api?id=reetika0104&icon=0&color=6)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jayom5797&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<div align="center">
+
+### ⭐ Code • Build • Innovate • Repeat ⭐
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250">
+
+</div>

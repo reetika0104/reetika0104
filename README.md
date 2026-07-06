@@ -76,7 +76,7 @@
 ## 👀 Profile Visits
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jayom5797&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=reetika0104&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <div align="center">

@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-📊 Aspiring **Data Analyst & Business Intelligence Engineer**
-🎓 Computer Engineering @ Thakur College of Engineering & Technology (CGPA 9.4)
-⚡ Turning raw data into clear, decision-ready stories with **Power BI, SQL & Python**
-🏆 Winner @ KnowCode 3.0 · Finalist @ CodeRush 3.0
-📚 Always learning — new DAX patterns, statistical methods, and better ways to communicate insights
+📊 Aspiring **Data Analyst & Business Intelligence Engineer**</br>
+🎓 Computer Engineering @ Thakur College of Engineering & Technology (CGPA 9.4)</br>
+⚡ Turning raw data into clear, decision-ready stories with **Power BI, SQL & Python**</br>
+🏆 Winner @ KnowCode 3.0 · Finalist @ CodeRush 3.0</br>
+📚 Always learning — new DAX patterns, statistical methods, and better ways to communicate insights</br>
 
 ---
 
@@ -51,18 +51,9 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=reetika0104&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=reetika0104&theme=default&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reetika0104&theme=default&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=reetika0104&theme=flat&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-readme-stats.shion.dev/api?username=reetika0104&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=reetika0104&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=reetika0104&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ## ✍️ Featured Projects
